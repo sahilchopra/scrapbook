@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+marriage:
+  name: Marriage
+  user: michel
+
+bikes:
+  name: Bikes
+  user: michel
+
+food:
+  name: Food
+  user: paul
+
+cars:
+  name: Cars
+  user: paul

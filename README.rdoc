@@ -1,0 +1,34 @@
+== Welcome to Scrapbook
+
+Scrapbook is a Rails application which allows you to store your photos in
+various user defined albums. User can Login/Register on the website and can
+create his/her Albums and then can add photos in it and can add tags on the
+added photos.
+
+The Main Functionality in this application is to create Album, its photos and
+thier tags using nested forms and accepts_nested_attributes_for. The Various
+Gems/Plugins used by me in this application are:
+
+1. pg
+2. bcrypt-ruby
+3. simple_form
+4. paperclip
+5. kaminari
+6. twitter-bootstrap-rails
+7. best_in_place
+8. aws-sdk
+
+8. bootstrap-filestyle
+9. slimbox2
+
+The above 8 are ruby gems and the last two are jquery plugins. The storage used
+is Amazon S3, Put your keys and bucket names in config/config.yml file to get it
+running.
+
+* This application is deployed on heroku: http://scrapbook-tp.herokuapp.com/
+
+Please Feel Free to Open issues here at Github or contact me at:-
+
+Email: tajinder.fzr@gmail.com
+
+Phone: +91-9878578085
