@@ -1,5 +1,7 @@
 == Welcome to Scrapbook
 
+
+
 Scrapbook is a Rails application which allows you to store your photos in
 various user defined albums. User can Login/Register on the website and can
 create his/her Albums and then can add photos in it and can add tags on the
